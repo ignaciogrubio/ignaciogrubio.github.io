@@ -1109,7 +1109,7 @@ pre {
 .footer {
 	display: block;
 	padding: 2em 0 0 0;
-	border-top: 2px solid #dddddd;
+	border-top: 2px solid  #606060;
 	font-size: .7em;
 	color: #606060; }
 
@@ -1120,7 +1120,7 @@ pre {
 		color: #606060;
 		text-decoration: underline; }
 		.footer__copyright a:hover {
-			color: #b9301c; }
+			color:  #606060; }
 
 .avatar,
 .logo {
