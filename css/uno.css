@@ -1405,7 +1405,7 @@ nav {
 .pagination__page-number {
 	margin: 0;
 	font-size: .8em;
-	color: #999999; }
+	color: #606060; }
 
 .pagination__newer {
 	margin-right: 1em; }
@@ -1441,7 +1441,7 @@ i {
 	font-size: 1.5em;
 	line-height: 1.3em; }
 	.post-list__post-title a {
-		color: #333333; }
+		color: #606060; }
 		.post-list__post-title a:hover {
 			color: #b9301c; }
 
@@ -1449,11 +1449,11 @@ i {
 	display: block;
 	margin: .7em 0 0 0;
 	font-size: .9em;
-	color: #c7c7c7; }
+	color: #606060; }
 
 .post-list__meta--date {
 	margin-right: .5em;
-	color: #c7c7c7; }
+	color: #606060; }
 
 .post-list__meta--tags {
 	margin-left: .5em; }
@@ -1461,7 +1461,7 @@ i {
 .post-list__divider {
 	width: 30%;
 	margin: 2.2em 0 2.1em 0;
-	border-top: 1px solid #dddddd; }
+	border-top: 1px solid #606060; }
 
 *:focus {
 	outline: none; }
@@ -1513,7 +1513,7 @@ input[type="tel"] {
 	input[type="url"]::-webkit-input-placeholder,
 	input[type="search"]::-webkit-input-placeholder,
 	input[type="tel"]::-webkit-input-placeholder {
-		color: #cccccc; }
+		color: #606060; }
 	input[type="text"]::-moz-placeholder,
 	input[type="password"]::-moz-placeholder,
 	input[type="datetime"]::-moz-placeholder,
@@ -1527,7 +1527,7 @@ input[type="tel"] {
 	input[type="url"]::-moz-placeholder,
 	input[type="search"]::-moz-placeholder,
 	input[type="tel"]::-moz-placeholder {
-		color: #cccccc; }
+		color: #606060; }
 	input[type="text"]:-moz-placeholder,
 	input[type="password"]:-moz-placeholder,
 	input[type="datetime"]:-moz-placeholder,
@@ -1541,7 +1541,7 @@ input[type="tel"] {
 	input[type="url"]:-moz-placeholder,
 	input[type="search"]:-moz-placeholder,
 	input[type="tel"]:-moz-placeholder {
-		color: #cccccc; }
+		color: #606060; }
 	input[type="text"]:-ms-input-placeholder,
 	input[type="password"]:-ms-input-placeholder,
 	input[type="datetime"]:-ms-input-placeholder,
@@ -1555,7 +1555,7 @@ input[type="tel"] {
 	input[type="url"]:-ms-input-placeholder,
 	input[type="search"]:-ms-input-placeholder,
 	input[type="tel"]:-ms-input-placeholder {
-		color: #cccccc; }
+		color: #606060; }
 
 @media all and (min-width: 1300px) {
 	.content-wrapper {
