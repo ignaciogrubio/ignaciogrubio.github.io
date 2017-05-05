@@ -1,6 +1,6 @@
 # Site settings
 title: Project Ka
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+description: 'Cuando digo una cosa, enseguida pierde su importancia definitivamente; cuando la escribo, también la pierde siempre, pero a veces adquiere una nueva.'
 url: 'http://ignaciogrubio.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -9,7 +9,7 @@ baseurl: '/'
 author:
   name: 'Ka'
   email: mail@ignaciogrubio.com
-  twitter_username: ignaciogrub
+  twitter_username: ignaciogrubio
   facebook_username: 
   github_username:  ignaciogrubio
   linkedin_username:  
