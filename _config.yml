@@ -1,6 +1,6 @@
 # Site settings
 title: Project Ka
-description: 'Cuando digo una cosa, enseguida pierde su importancia definitivamente; cuando la escribo, también la pierde siempre, pero a veces adquiere una nueva.'
+description: 'Cuando digo una cosa, enseguida pierde su importancia definitivamente; cuando la escribo, también la pierde siempre, </br>pero a veces adquiere una nueva.'
 url: 'http://ignaciogrubio.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
