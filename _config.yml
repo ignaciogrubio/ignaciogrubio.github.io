@@ -10,7 +10,7 @@ baseurl: "" # apply repo name if use it under gh-pages branch
 
 google_analytics: UA-XXXXX-XX
 repo: http://ignaciogrubio.github.io
-disqus_shortname: "hnbloggithub"
+disqus_shortname: "glitched-1"
 twitter_username: "IgnacioGRubio"
 comments: true
 
