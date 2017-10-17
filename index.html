@@ -21,7 +21,7 @@ title:
         <span class="post-meta date-label">{{ post.date | date: "%d-%m-%Y" }}</span>
         <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</div>
       </article>       
-      <article class="small"><span style="color: grey;">{{ post.excerpt }}</span></article>
+      <article class="small">{{ post.description }}</article>
       {% endfor %}
   </div>
 
