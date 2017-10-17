@@ -20,7 +20,7 @@ title:
       <article class="post-item">
         <span class="post-meta date-label">{{ post.date | date: "%d-%m-%Y" }}</span>
         <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</div>
-        <div class="post-content">{{ post.excerpt }}</div>
+        <span class="small">{{ post.excerpt }}</span>
       </article>
     {% endfor %}
   </div>
