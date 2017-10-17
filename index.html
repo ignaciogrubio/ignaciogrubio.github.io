@@ -18,9 +18,8 @@ title:
         {% endif %}
       {% endunless %}
       <article class="post-item">
-        <span class="post-meta date-label">{{ post.date | date: "%d-%m-%Y" }}</span>
+        <span class="post-meta date-label">{{ post.date | date: "%d-%m-%Y" }} {{ post.excerpt }}</span>
         <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</div>
-        <div class="post-content" itemprop="articleBody">{{ post.excerpt }}</div>
       </article>
     {% endfor %}
   </div>
