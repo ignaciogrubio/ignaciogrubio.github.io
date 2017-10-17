@@ -7,7 +7,7 @@ keywords: "PC, sobremesa, renovación"
 ---
 
 Mi PC de sobremesa cumplirá pronto once años y vive una segunda juventud, capaz de tirar con cualquier juego actual a unas más que decentes configuraciones. ¿Cuál es el secreto de tanta longevidad? Bueno, admito que tiene parte de trampa.
-
+<!--more-->
 Pese a la tan cacareada era postpc, yo soy y seré un fiel enamorado del equipo de sobremesa; entiendo que no todo el mundo pueda ser como yo y que se le ha desplazado del mercado generalista a un mercado de nicho notablemente inferior, pero aún así, su flexibilidad y adaptación así como su capacidad para soportar entornos de mayor exigencia que cualquier portátil, lo convierten en un equipo insustituible ¡larga vida al sobremesa!
 
 La historia de mi PC se remonta a finales de 2006 y reconozco que supuso una gran inversión, pero visto su rendimiento creo que mereció la pena cada euro invertido. Inicialmente su función fue la de PC de ocio y trabajo, hoy en día, el portátil ha acaparado parte de sus funciones, sobre todo las de trabajo, pero este sigue siendo el centro de ocio por excelencia y además ha encontrado nuevas tareas, como la de servir de cerebro para una modesta sala de cine -anexa a la de este- que, proyector mediante, se convierte en escenario de encarnizadas batallas al Fifa o PES de turno -según convenga-, a Rocket League, o emuladores para los más nostálgicos - que los 16 bits a 100 pulgadas y el sonido Midi a través del 5.1, tienen su encanto-.

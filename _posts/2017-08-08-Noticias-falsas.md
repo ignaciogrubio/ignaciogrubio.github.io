@@ -7,7 +7,7 @@ keywords: "Noticias falsas, posverdad, censura"
 ---
 
 La posverdad, el declive del periodismo, las perversas redes sociales, el clickbait, el populismo, la manipulación... todos estos términos y muchos más aparecen convergiendo o divergiendo, como síntoma o como culpable, así sea la opinión de cada cual. Las noticias falsas se han convertido en un arma sin control capaz de aupar al poder a un personaje que no resultaría creíble ni en la más sórdida ficción televisiva.
-
+<!--more-->
 Ante este panorama, las grandes corporaciones que distribuyen contenido por todo el mundo, Google, Facebook o Twitter, parecen haberse auto erigido en adalides contra esta lacra, como si un sentimiento de intensa culpa les remordiese la conciencia, como si cada noticia falsa les fustigase y fuese esta la única vía para expiar sus pecados, unos pecados que para mayor escarnio, ni siquiera han cometido.
 
 Y ante mi perplejidad, o quizás como un síntoma más de una sociedad enferma, este hecho ha sido acogido con júbilo, como la luz al final de un túnel de desinformación donde nos espera un oasis de noticias que consumir con las tragaderas bien abiertas, sin filtros, sin resquemor, sin margen para el escepticismo o la más sana crítica.

@@ -7,7 +7,7 @@ keywords: "PUBG, fps, juegos, shooter"
 ---
 
 -¿Qué es esa mierda de PUBG -leáse *piu-bi-yi*- que está por todas partes? Vamos no me jodas si es otro fps con gráficos... correctos.
-
+<!--more-->
 -¿Basado en Battle Royale? Esa era la película japonesa donde moría *to kiski *¿no? pero eso tiene unos pocos de años, no creo que toda esta gente sean tan carcas como yo y jueguen por la peli.
 
 -Ahm, que solo coge el sistema de eliminación, bah, peor me lo pones, de cien solo gana uno, pasando, todavía me escuece la humillación constante que sufrí en mi último acercamiento a un shooter, aquel Star Wars Battlefront se veía impresionante, con sus blasters y X-Wing, y yo no duraba ni cinco minutos en la partida -si hasta me mataban siendo Luke Skywalker-, si George Lucas se hubiese fijado en mí, en vez de tres trilogías, hacía un corto y le sobraba para meter los créditos.
