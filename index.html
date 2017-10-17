@@ -21,8 +21,9 @@ title:
         <span class="post-meta date-label">{{ post.date | date: "%d-%m-%Y" }}</span>
         <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</div>
       </article>       
-      <span style="color:Grey">{{ post.description }}  </span>
-      <br>
+      <div style="color:Grey">{{ post.description }}  
+        
+      </div>
       {% endfor %}
   </div>
 
