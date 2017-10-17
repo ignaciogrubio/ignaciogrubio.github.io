@@ -14,14 +14,14 @@ title:
         {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
         {% if year != nyear %}
-          <h2 class="category-title">{{ post.date | date: '%Yjjj' }}</h2>
+          <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
         {% endif %}
       {% endunless %}
       <article class="post-item">
         <span class="post-meta date-label">{{ post.date | date: "%d-%m-%Y" }}</span>
         <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</div>
       </article>       
-      <span style="color:Grey">{{ post.description }}</span>
+      <span style="color:Grey">{{ post.description }}</span></div>
       {% endfor %}
   </div>
 
