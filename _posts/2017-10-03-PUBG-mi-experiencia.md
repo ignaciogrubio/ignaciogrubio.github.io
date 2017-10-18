@@ -20,7 +20,7 @@ keywords: "PUBG, fps, juegos, shooter"
 
 -A ver… PUBG, Steam… 29,99 € por un juego en desarrollo, madre mía, esto del *hype* se cotiza caro, aunque el Battlefront costaba el doble, y mejor no pienso en eso de la amortización porque duele hasta de pensarlo. Todo sea por no perderse el hit del momento.
 
-![PUBG1](/assets/images/PUBG1.jpg)
+![PUBG Logo](/assets/images/PUBG.png)
 
 Descarga e instalación rápida; breve proceso de personalizado de nuestro coleguilla y ‘alter ego’, buscando colores que no llamen la atención, como si eso me fuese a servir para algo -todo un estratega oiga-; click en empezar partida, amago de *lagueo* que me recuerda que debería haber revisado la configuración gráfica antes de empezar, y ¡oh drama! el botón de cancelar no funciona ¡cerdos al matadero! oink oink.
 
@@ -47,6 +47,8 @@ Después de una partida bastante decepcionante por motivos relativamente ajenos 
 Ya con la perspectiva que aportan algo más diez partidas, he de decir en primer lugar, que son poquísimas partidas para poder apreciar ni un mínimo porcentaje de lo que es capaz de aportar este juego. La sensación de novato fuera de control es total, la curva de dificultad es muy pronunciada para quien no tenga un background decente en juegos como ARMA y similares -del que este es heredero-, y si a eso se le suma la tensión constante a la que te somete la larga fase inicial de engañosa calma que puede truncarse repentinamente -muchas veces sin que ni siquiera te des cuenta de lo que ha pasado-, nos deja como resultado un título tremendamente exigente y que puede provocar cierta frustración en aquellos que pretendan estar mínimamente cerca de ganar sin dedicarles un periodo de aprendizaje y entrenamiento bastante alto. Caer una y otra vez sin saber de dónde te ha venido el tiro y redescubrir una nueva dimensión de lo que es la crudeza de la Ley de Murphy, porque si encuentras una buena arma, te matarán sin que te dé tiempo a dispararla, y si te encuentras con un rival al que poder cazar sin que te descubra, entonces no tendrás la mira y/o el rifle adecuado para ello.
 
 Sin embargo, este gran escollo más que una pega es una criba que se retroalimenta, sólo los más persistentes serán capaces de seguir lanzándose una y otra vez de ese avión, los novatos de hoy que no decaigan ante la frustración, podrán convertirse en los expertos de mañana, y ellos serán los que se ceben con los incautos novatos, subiendo aún más el nivel.
+
+![PUBG1](/assets/images/PUBG1.jpg)
 
 Insisto, el juego es tremendamente cruel, tanto por la dificultad de enfrentarse a todos por igual, como por la plena conciencia del jugador de estar peleando con las mismas armas que el resto de participantes, y que la abismal diferencia que existe entre tú y el resto, es única y exclusivamente de habilidad. Aquí no tenemos un sistema de gemas que permita tener armas de mayor nivel, no, aquí las autoexcusas del tipo, me ganan porque pagan más que yo, o tienen más nivel, no existen. Te ganan porque son mejores que tú, por lo tanto, nada de lloriqueos, o te vas o mejoras.
 
