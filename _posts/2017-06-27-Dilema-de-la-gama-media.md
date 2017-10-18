@@ -26,6 +26,6 @@ En este punto, tenemos el frágil equilibrio entre lo que quiere el consumidor -
 
 Y para ser como ellos hay que competir con sus armas, Oneplus ya había conseguido el sello de calidad de los expertos, estaba bendecida con el blasón geek de "producto recomendado", la noticia de la presentación del Oneplus 5 se recogió hasta en los periódicos más generalistas -Marca y El País entre otros- donde antiguamente solo tenían cabida las keynote de Apple. Había llegado la oportunidad de asaltar el trono definitivamente, y en ese momento, como tantas otras marcas anteriormente, dieron la espalda a los expertos que la habían aupado hasta donde estaba, y abrió los brazos al público generalista, les dijo, aquí estamos, vuestros amigos geeks ya os han dicho que hacemos buenos teléfonos, ahora hablemos de intangibles, como lo maravillosas que son nuestras fotos.
 
-- ¿Cómo pueden haberme traicionado? - dijo el experto, herido en su orgullo y revolviéndose en su sillón- ¡Jamás volveré a recomendarte Oneplus! -mientras miraba al resto de marcas, LeEco, ZTE, Xiaomi...- Vosotras nunca me haréis esto ¿verdad?.
+-¿Cómo pueden haberme traicionado? -dijo el experto, herido en su orgullo y revolviéndose en su sillón- ¡Jamás volveré a recomendarte Oneplus! -mientras miraba al resto de marcas, LeEco, ZTE, Xiaomi...- Vosotras nunca me haréis esto ¿verdad?.
 
 No, al menos hasta que se enfrenten ante el ineludible dilema, ser diferente a los grandes, hasta que puedan ser exactamente igual que ellos.
