@@ -5,7 +5,7 @@ title2: " Ka"
 description: "My Blog"
 keywords: "Blog, ignaciogrubio, technology, smartphone, pc"
 url: http://ignaciogrubio.github.io
-baseurl: ""
+baseurl: "http://ignaciogrubio.github.io"
 
 google_analytics: UA-XXXXX-XX
 repo: http://ignaciogrubio.github.io
@@ -55,6 +55,5 @@ navbar:
   - slug : blog
     title: Blog
 
-excerpt_separator: <!--more-->
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
