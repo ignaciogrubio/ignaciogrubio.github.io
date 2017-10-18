@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PUBG, mi experiencia con el juego de moda"
-description: "¿Qué es esa mierda de PUBG -leáse *piu-bi-yi*- que está por todas partes? Vamos no me jodas si es otro fps con gráficos... correctos."
+description: "¿Qué es esa mierda de PUBG -leáse *piu-bi-yi*- que está por todas partes? Vamos no me jodas si es otro fps con gráficos... correctos. Algo tendrá ¿no?"
 comments: true
 keywords: "PUBG, fps, juegos, shooter"
 ---
