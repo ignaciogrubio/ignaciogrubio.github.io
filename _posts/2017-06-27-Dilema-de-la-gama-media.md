@@ -6,7 +6,7 @@ comments: true
 keywords: "smartphones, opinión, gama media"
 ---
 
-Hace poco escribía sobre la estrategia que habían adoptado las marcas que copan la llamada gama alta del mercado de los smartphones para intentar hacer frente a los ambiciosos envites de los jóvenes fabricantes asiáticos -[aquí](https://ignaciogrubio.github.io/2017/Dilema-de-la-gama-alta/), recomiendo leer antes que este-. Ahora, con la reciente presentación de la última iteración del autoproclamado "flagship killer" - el Oneplus 5- se hace necesaria la reflexión acerca de la deriva tomada por este fabricante, la aspiración que una vez fue acabar con el *statu quo*, ahora se convierte en formar parte de él.
+Hace poco escribía sobre la estrategia que habían adoptado las marcas que copan la llamada gama alta del mercado de los smartphones para intentar hacer frente a los ambiciosos envites de los jóvenes fabricantes asiáticos -[aqui](https://ignaciogrubio.github.io/2017/Dilema-de-la-gama-alta/), recomiendo leer antes que este-. Ahora, con la reciente presentación de la última iteración del autoproclamado "flagship killer" - el Oneplus 5- se hace necesaria la reflexión acerca de la deriva tomada por este fabricante, la aspiración que una vez fue acabar con el *statu quo*, ahora se convierte en formar parte de él.
 
 <!--more-->
 
