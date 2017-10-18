@@ -5,7 +5,7 @@ title2: " Ka"
 description: "My Blog"
 keywords: "Blog, ignaciogrubio, technology, smartphone, pc"
 url: http://ignaciogrubio.github.io
-baseurl: "http://ignaciogrubio.github.io"
+baseurl: ""
 
 google_analytics: UA-XXXXX-XX
 repo: http://ignaciogrubio.github.io
