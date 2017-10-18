@@ -20,7 +20,6 @@ keywords: "PUBG, fps, juegos, shooter"
 
 -A ver… PUBG, Steam… 29,99 € por un juego en desarrollo, madre mía, esto del *hype* se cotiza caro, aunque el Battlefront costaba el doble, y mejor no pienso en eso de la amortización porque duele hasta de pensarlo. Todo sea por no perderse el hit del momento.
 
-![PUBG1](/assets/images/PUBG1.jpg)
 
 Descarga e instalación rápida; breve proceso de personalizado de nuestro coleguilla y ‘alter ego’, buscando colores que no llamen la atención, como si eso me fuese a servir para algo -todo un estratega oiga-; click en empezar partida, amago de *lagueo* que me recuerda que debería haber revisado la configuración gráfica antes de empezar, y ¡oh drama! el botón de cancelar no funciona ¡cerdos al matadero! oink oink.
 
