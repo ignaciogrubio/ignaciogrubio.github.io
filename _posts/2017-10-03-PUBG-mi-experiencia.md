@@ -8,7 +8,7 @@ keywords: "PUBG, fps, juegos, shooter"
 
 -¿Qué es esa mierda de PUBG -leáse "piu-bi-yi"- que está por todas partes? Vamos no me jodas si es otro fps con gráficos... correctos.
 
--¿Basado en Battle Royale? Esa era la película japonesa donde moría *to kiski *¿no? pero eso tiene unos pocos de años, no creo que toda esta gente sean tan carcas como yo y jueguen por la peli.
+-¿Basado en Battle Royale? Esa era la película japonesa donde moría *to kiski* ¿no? pero eso tiene unos pocos de años, no creo que toda esta gente sean tan carcas como yo y jueguen por la peli.
 
 -Ahm, que solo coge el sistema de eliminación, bah, peor me lo pones, de cien solo gana uno, pasando, todavía me escuece la humillación constante que sufrí en mi último acercamiento a un shooter, aquel Star Wars Battlefront se veía impresionante, con sus blasters y X-Wing, y yo no duraba ni cinco minutos en la partida -si hasta me mataban siendo Luke Skywalker-, si George Lucas se hubiese fijado en mí, en vez de tres trilogías, hacía un corto y le sobraba para meter los créditos.
 
@@ -20,11 +20,11 @@ keywords: "PUBG, fps, juegos, shooter"
 
 -A ver… PUBG, Steam… 29,99 € por un juego en desarrollo, madre mía, esto del *hype* se cotiza caro, aunque el Battlefront costaba el doble, y mejor no pienso en eso de la amortización porque duele hasta de pensarlo. Todo sea por no perderse el hit del momento.
 
-Descarga e instalación rápida; breve proceso de personalizado de nuestro coleguilla y ‘alter ego’, buscando colores que no llamen la atención, como si eso me fuese a servir para algo -todo un estratega oiga-; click en empezar partida, amago de *lagueo *que me recuerda que debería haber revisado la configuración gráfica antes de empezar, y ¡oh drama! el botón de cancelar no funciona ¡cerdos al matadero! oink oink.
+Descarga e instalación rápida; breve proceso de personalizado de nuestro coleguilla y ‘alter ego’, buscando colores que no llamen la atención, como si eso me fuese a servir para algo -todo un estratega oiga-; click en empezar partida, amago de *lagueo* que me recuerda que debería haber revisado la configuración gráfica antes de empezar, y ¡oh drama! el botón de cancelar no funciona ¡cerdos al matadero! oink oink.
 
 La "sala" de espera me confirma mis temores, un lag insufrible, aunque intento autoconvencerme de que se debe a la saturación de personas haciendo el cabra en un área muy pequeña, todo mejorará cuando me encuentre en soledad. Ya estamos en el avión, primer pensamiento: como mierda se sale de aquí.
 
--Ya, podría haberme mirado los controles antes, ¿pero qué mierda de gamer *old school *sería entonces?
+-Ya, podría haberme mirado los controles antes, ¿pero qué mierda de gamer *old school* sería entonces?
 
 -Oh wait, mira el letrerito, *F para eyectar*, no era tan difícil, seguro que habría dado con él sin problemas  <Eyectandooooo>
 
@@ -34,11 +34,11 @@ Voy a por mi botín, quiero una automática tocha o un francotirador para campea
 
 Ok, ya está todo limpio, looteado que se diría en slang propio, ahora ¿a dónde voy? Consulto minimapa, y oh sorpresa, la zona de cierre que va limitando el campo de batalla está entre muy lejos y a tomar por culo de lejos. En los vídeos que había visto siempre encontraban vehículos con los que ir a toda leche, pero evidentemente yo no tengo tanta suerte, porque por aquí no he visto nada que se parezca a un vehículo, toca patearse medio mapa con una diana en la cabeza de "NOOB CORRIENDO".
 
-Consigo salvar la zona bastante justo y sin altercados, todo sin parar ni un solo segundo. Y con la suerte otra vez de mi lado, el nuevo cierre también me pilla bastante lejos, así que toca correr otra vez, aunque ahora quiero tomármelo con más calma e intentar sacar algún botín más -aviso a millennials, loot significa botín-.
+Consigo salvar la zona bastante justo y sin altercados, todo sin parar ni un solo segundo. Y con la suerte otra vez de mi lado, el nuevo cierre también me pilla bastante lejos, así que toca correr otra vez, aunque ahora quiero tomármelo con más calma e intentar sacar algún botín más -aviso a millennials, botín es eso de loot-.
 
 Llego a un pequeño núcleo de casas, y como si se tratase de un sentido arácnido, se me empieza laguear todo, a trompicones entro en la primera casa que encuentro y vuelvo a cerrar la puerta, con este lag mejor intentar disparar a bulto que apuntar a media/larga distancia, me pego a la pared, se abre la puerta, lagazo de lo más oportuno, se escucha como se descarga todo un cargador  y acabo en el suelo sin haber soltado ni una sola bala y cara de gilipollas.
 
-Después de una partida bastante decepcionante por motivos ajenos a la propia jugabilidad, me queda claro que necesito hacer bastante ajustes gráficos y de control, porque este juego no perdona la más mínima, y tendré que darle bastante más partidas antes de poder hacer un veredicto mínimamente adecuado.
+Después de una partida bastante decepcionante por motivos relativamente ajenos al propio juego, me queda claro que necesito hacer bastante ajustes gráficos y de control, porque este juego no perdona la más mínima, y tendré que darle bastante más partidas antes de poder hacer un veredicto mínimamente adecuado.
 
 **Cerrando**
 
