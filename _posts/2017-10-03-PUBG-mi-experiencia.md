@@ -7,24 +7,24 @@ keywords: "PUBG, fps, juegos, shooter"
 ---
 
 -¿Qué es esa mierda de PUBG -leáse *piu-bi-yi*- que está por todas partes? Vamos no me jodas si es otro fps con gráficos... correctos.
-<!--more-->
+
 -¿Basado en Battle Royale? Esa era la película japonesa donde moría *to kiski *¿no? pero eso tiene unos pocos de años, no creo que toda esta gente sean tan carcas como yo y jueguen por la peli.
 
 -Ahm, que solo coge el sistema de eliminación, bah, peor me lo pones, de cien solo gana uno, pasando, todavía me escuece la humillación constante que sufrí en mi último acercamiento a un shooter, aquel Star Wars Battlefront se veía impresionante, con sus blasters y X-Wing, y yo no duraba ni cinco minutos en la partida -si hasta me mataban siendo Luke Skywalker-, si George Lucas se hubiese fijado en mí, en vez de tres trilogías, hacía un corto y le sobraba para meter los créditos.
 
 A long time away in a galaxy far, far away… PIUM PIUM… The End.
 
-- Ya no hacen juegos como los de antes… bueno sí que los hacen, al fin y al cabo se sigue jugando al Counter Strike, ¡hey, a ese si que era bueno! al menos entre los 7 ó 8 que íbamos al "ciber".
+-Ya no hacen juegos como los de antes… bueno sí que los hacen, al fin y al cabo se sigue jugando al Counter Strike, ¡hey, a ese si que era bueno! al menos entre los 7 ó 8 que íbamos al "ciber".
 
 -Bah, ya me has picado -perdón, *hypeado-* seguro que no estoy tan oxidado, aunque lo de los shooters nunca fuese mi fuerte ahora tengo los dedos rápidos de tanto Clash Royale, ahí no cuestionas mi habilidad ¡eh! Luchando codo a codo contra la élite de millennials quinceañeros.
 
 -A ver… PUBG, Steam… 29,99 € por un juego en desarrollo, madre mía, esto del *hype *se cotiza caro, aunque el Battlefront costaba el doble, y mejor no pienso en eso de la amortización porque duele hasta de pensarlo. Todo sea por no perderse el hit del momento.
 
-Descarga e instalación rápida; breve proceso de personalizado de nuestro coleguilla y ‘alter ego’ buscando colores que no llamen la atención, como si eso me fuese a servir para algo -todo un estratega oiga-; click en empezar partida, amago de *lagueo *que me recuerda que debería haber revisado la configuración gráfica antes de empezar, y ¡oh drama! el botón de cancelar no funciona ¡cerdos al matadero! oink oink.
+Descarga e instalación rápida; breve proceso de personalizado de nuestro coleguilla y ‘alter ego’, buscando colores que no llamen la atención, como si eso me fuese a servir para algo -todo un estratega oiga-; click en empezar partida, amago de *lagueo *que me recuerda que debería haber revisado la configuración gráfica antes de empezar, y ¡oh drama! el botón de cancelar no funciona ¡cerdos al matadero! oink oink.
 
 La "sala" de espera me confirma mis temores, un lag insufrible, aunque intento autoconvencerme de que se debe a la saturación de personas haciendo el cabra en un área muy pequeña, todo mejorará cuando me encuentre en soledad. Ya estamos en el avión, primer pensamiento: como mierda se sale de aquí.
 
-- Ya, podría haberme mirado los controles antes, ¿pero qué mierda de gamer *old school *sería entonces?
+-Ya, podría haberme mirado los controles antes, ¿pero qué mierda de gamer *old school *sería entonces?
 
 -Oh wait, mira el letrerito, *F para eyectar*, no era tan difícil, seguro que habría dado con él sin problemas  <Eyectandooooo>
 
