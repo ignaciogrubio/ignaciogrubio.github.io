@@ -12,6 +12,8 @@ Ante este panorama, las grandes corporaciones que distribuyen contenido por todo
 
 Y ante mi perplejidad, o quizás como un síntoma más de una sociedad enferma, este hecho ha sido acogido con júbilo, como la luz al final de un túnel de desinformación donde nos espera un oasis de noticias que consumir con las tragaderas bien abiertas, sin filtros, sin resquemor, sin margen para el escepticismo o la más sana crítica.
 
+![Media](/assets/images/media.jpg "CC from www.CGPGrey.com")
+
 No podemos ocultarlo, nos hemos convertido en miembros de una masa que admite ser incapaz de distinguir un bulo de la realidad. Aunque ‘incapaz’ indica falta de capacidad para algo, y más debiera decirse ausencia de ganas, unas profundas ansias de convertirlo en realidad, o una retorcida intención de hacerlo creíble a sabiendas de su falsedad.
 
 Pero aunque se pretenda revestir el debate de una profunda actualidad, un problema nuevo que necesita nuevas soluciones, no somos más que una iteración de lo que éramos, y la palabra escrita siempre ha tenido la facilidad de revestirse de autoridad ‘per se’, aunque los gigantes de Silicon Valley, actúen como si la falacia ‘ad verecundiam’ fuese coetánea del emoji :-)
