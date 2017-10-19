@@ -20,7 +20,9 @@ keywords: "PUBG, fps, juegos, shooter"
 
 -A ver… PUBG, Steam… 29,99 € por un juego en desarrollo, madre mía, esto del *hype* se cotiza caro, aunque el Battlefront costaba el doble, y mejor no pienso en eso de la amortización porque duele hasta de pensarlo. Todo sea por no perderse el hit del momento.
 
-![PUBG Logo](/assets/images/PUBG.png)
+<p align="center">
+<img src="/assets/images/PUBG.png" title="PUBG" alt="PUBG logo" />
+</p>
 
 Descarga e instalación rápida; breve proceso de personalizado de nuestro coleguilla y ‘alter ego’, buscando colores que no llamen la atención, como si eso me fuese a servir para algo -todo un estratega oiga-; click en empezar partida, amago de *lagueo* que me recuerda que debería haber revisado la configuración gráfica antes de empezar, y ¡oh drama! el botón de cancelar no funciona ¡cerdos al matadero! oink oink.
 
@@ -48,7 +50,9 @@ Ya con la perspectiva que aportan algo más diez partidas, he de decir en primer
 
 Sin embargo, este gran escollo más que una pega es una criba que se retroalimenta, sólo los más persistentes serán capaces de seguir lanzándose una y otra vez de ese avión, los novatos de hoy que no decaigan ante la frustración, podrán convertirse en los expertos de mañana, y ellos serán los que se ceben con los incautos novatos, subiendo aún más el nivel.
 
-![PUBG1](/assets/images/PUBG1.jpg)
+<p align="center">
+<img src="/assets/images/PUBG1.jpg" title="PUBG" alt="PUBG" />
+</p>
 
 Insisto, el juego es tremendamente cruel, tanto por la dificultad de enfrentarse a todos por igual, como por la plena conciencia del jugador de estar peleando con las mismas armas que el resto de participantes, y que la abismal diferencia que existe entre tú y el resto, es única y exclusivamente de habilidad. Aquí no tenemos un sistema de gemas que permita tener armas de mayor nivel, no, aquí las autoexcusas del tipo, me ganan porque pagan más que yo, o tienen más nivel, no existen. Te ganan porque son mejores que tú, por lo tanto, nada de lloriqueos, o te vas o mejoras.
 
