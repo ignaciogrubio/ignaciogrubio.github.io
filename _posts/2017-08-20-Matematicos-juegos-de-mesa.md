@@ -11,6 +11,7 @@ Si hablamos de juegos de mesa, las referencias rápidas y más comunes serán el
 Todo juego de mesa, por su propia naturaleza desprende un cálculo de probabilidades (que no necesariamente azar), pero si existe una categoría donde las matemáticas son el eje vertebrador, es sin duda la de los "[euro games](https://es.wikipedia.org/wiki/Juego_de_estilo_alem%C3%A1n)" o juegos de tipo europeo, que deben su nombre a una escuela de creadores europeos -fundamentalmente alemanes-, donde el tema pasa a un segundo plano y la base que sustenta el juego es su mecánica, algunos de estos importantes nombres son:
 
 **Uwe Rosenberg:** Nacido en Alemania, en 1970, diseñó su primer juego, [-Bohnanza](https://www.boardgamegeek.com/boardgame/11/bohnanza)- en 1997, mientras cursaba sus **estudios de Estadística**, diez años después, lanzó el que es considerado uno de los mejores juegos de mesa actuales, [Agrícola](https://www.boardgamegeek.com/boardgame/31260/agricola), convirtiéndose en el auténtico maestro de la mecánica de "colocación de trabajadores". donde la optimización tanto de recursos como de trabajadores, es nuestra principal preocupación, productividad, productividad y productividad, alemán tenía que ser. Otros juegos posteriores de este diseñador también desarrollan esta misma mecánica, como [Le Havre](https://www.boardgamegeek.com/boardgame/35677/le-havre), [Ora et labora](https://www.boardgamegeek.com/boardgame/70149/ora-et-labora) o [Caverna](https://www.boardgamegeek.com/boardgame/102794/caverna-cave-farmers).
+
 <p align="center">
 <img src="/assets/images/Agricola.jpg" title="Agrícola CC modif. from Flickr Rrrodrigo" alt="Agrícola" />
 </p>
@@ -31,7 +32,16 @@ Todo juego de mesa, por su propia naturaleza desprende un cálculo de probabilid
 
 **Andreas Seyfarth:** Alemania, 1962. **Controlador Financiero** en una gran compañía de telecomunicaciones y sobre todo, autor del otro gran clásico junto a Agrícola, [Puerto Rico](https://boardgamegeek.com/boardgame/3076/puerto-rico), un Eurogame con mayúsculas, introductor de una mecánica innovadora en el que las fases del turno de juego son variables, tanto en orden como en acciones, en base a los roles que elijan los jugadores. Los cálculos sobre cómo afectaría cada posible acción a mi estrategia y sobre todo a la del rival, se hacen necesarios si quieres tener la colonia más próspera del Nuevo Mundo. A la sombra de este grandísimo juego, [Manhattan](https://boardgamegeek.com/boardgame/199/manhattan), su primer éxito y [Thurn And Taxis](https://boardgamegeek.com/boardgame/21790/thurn-and-taxis), creado junto a su esposa.
 
+<p align="center">
+<img src="/assets/images/PRico.jpg" title="Puerto Rico CC modif. from Flickr n0wak" alt="Puerto Rico" />
+</p>
+
+
 **Jeroun Doumen:** Holandés y **Doctor en Matemáticas** por la Universidad Tecnológica de Eindhoven. Junto al también holandés, Joris Wiersinga, forma [Splotter Spellen](https://www.splottershop.com/), una editorial que diseña sus propios juegos con un alto nivel de reconocimiento y prestigio, sobre todo por la elevada complejidad de sus títulos principales, no aptos para cualquiera. Un clásico, [Antiquity](https://boardgamegeek.com/boardgame/13122/antiquity), uno que será clásico, [Food Chain Magnate](https://boardgamegeek.com/boardgame/175914/food-chain-magnate).
+
+<p align="center">
+<img src="/assets/images/Antiquity.jpg" title="Antiquity CC modif. from Flickr msaari" alt="Antiquity" />
+</p>
 
 **Bruno Cathala:** Francés, nacido en 1963, y pese a tener, como a él mismo reconoce, inclinación hacia los trabajo artísticos, acabó escogiendo las matemáticas y la física en busca de una mejor colocación profesional, concretamente, estudios en **Medición Física y Ciencias de los Materiales.** Tras ser despedido, poniendo fin a una carrera de 18 años en la industria, se acabó reciclando y convirtiéndose en uno de los más afamados y productivos diseñadores de juegos, [7 Wonders Duels](https://boardgamegeek.com/boardgame/173346/7-wonders-duel), [Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes), [Cyclades](https://boardgamegeek.com/boardgame/54998/cyclades) o el reciente ganador del máximo galardón del sector, el Spiel des Jahres 2017, con su [Kingdomino](https://boardgamegeek.com/boardgame/204583/kingdomino).
 
