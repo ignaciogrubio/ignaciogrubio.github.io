@@ -29,7 +29,7 @@ La historia de mi PC se remonta a finales de 2006 y reconozco que supuso una gra
 
 Decía al principio que tenía parte de trampa, y así es, esta no es la configuración actual, obviamente con esos componentes no llegaría muy lejos hoy en día.
 
-El primero en pasar a mejor vida, fue la placa base, que era una apuesta digamos que arriesgada, con un northbridge -nforce 680i- que nunca acabó de convencerme. Por suerte, como "amigo informático" me encuentro con bastantes posibilidades de intercambiar componentes con PC’s que están a punto de acabar en la basura, aunque no tengan ni mucho menos su vida útil acabada. Así, me agencie con una decente placa base, a priori no superior, pues montaba un P35 de intel, pero que vino a suplir la falta de estabilidad de la anterior, ya sea por un mejor conjunto o que la primera estaba realmente defectuosa, quien sabe. Esta placa que es del año 2007, es la que sigue funcionando actualmente, así que muy mala no salió del todo.
+El primero en pasar a mejor vida, fue la placa base, que era una apuesta digamos que arriesgada, con un northbridge -nforce 680i- que nunca acabó de convencerme. Por suerte, como "amigo informático" me encuentro con bastantes posibilidades de intercambiar componentes con PC’s que están a punto de acabar en la basura, aunque no tengan ni mucho menos su vida útil acabada. Así, me agencie con una decente placa base, a priori no superior, pues montaba un P35 de Intel, pero que vino a suplir la falta de estabilidad de la anterior, ya sea por un mejor conjunto o que la primera estaba realmente defectuosa, quien sabe. Esta placa que es del año 2007, es la que sigue funcionando actualmente, así que muy mala no salió del todo.
 
 Misma suerte y proceder sufrió mi procesador, aunque estaba encantado con el rendimiento de mi "Conroe", no puede resistir a sustituirlo cuando llegó a mis manos un procesador ligeramente superior, otro “Conroe” pero e6700; superior y sobre todo con una vida menos sufrida, porque a mi pobre e6600 le exigí todo lo que podía y un poco más, con agresivas subidas de voltajes y frecuencias.
 
@@ -65,11 +65,11 @@ Resumiendo y para el que le interese mi Frankenstein:
 
 **LISTADO DE COMPONENTES ACTUALES:**
 
-- Fuente Alimentación: Seasonic S12 Energy Plus 650W 80Plus
-- Memorias:	OCZ PC2-6400 2 x 1024mb 5.0-5-5-15-23 \@ 400 MHz Y
-			OCZ PC2-6400 2 x 1024mb 5.0-5-5-15-23 \@ 400 MHz
+- Fuente Alimentación: Seasonic S12 Energy Plus 650W 80 Plus
+- Memorias:	OCZ PC2-6400 2 x 1024mb 5.0-5-5-15-23 @ 400 MHz Y  
+			Patriot PC2-6400 2 x 2048mb 6.0-6-6-18-24 @ 400 MHz
 - Caja: LianLi 343b
-- Procesador: Intel Xeon E5450 Harpertown \@ 3.00GHz
+- Procesador: Intel Xeon E5450 Harpertown @ 3.00GHz
 - Disipador: Thermalright Ultra + Ventilador PAPST
 - Placa Base: Gigabyte P35-DQ6
 - Disco Duro: 2 x Seagate 7200rpm y 1 x Samsung 850 EVO
