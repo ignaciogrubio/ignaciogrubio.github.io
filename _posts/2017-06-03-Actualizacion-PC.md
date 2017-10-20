@@ -7,10 +7,14 @@ keywords: "PC, sobremesa, renovación"
 ---
 
 Mi PC de sobremesa cumplirá pronto once años y vive una segunda juventud, capaz de tirar con cualquier juego actual a unas más que decentes configuraciones. ¿Cuál es el secreto de tanta longevidad? Bueno, admito que tiene parte de trampa.
-<!--more-->
+
 Pese a la tan cacareada era postpc, yo soy y seré un fiel enamorado del equipo de sobremesa; entiendo que no todo el mundo pueda ser como yo y que se le ha desplazado del mercado generalista a un mercado de nicho notablemente inferior, pero aún así, su flexibilidad y adaptación así como su capacidad para soportar entornos de mayor exigencia que cualquier portátil, lo convierten en un equipo insustituible ¡larga vida al sobremesa!
 
 La historia de mi PC se remonta a finales de 2006 y reconozco que supuso una gran inversión, pero visto su rendimiento creo que mereció la pena cada euro invertido. Inicialmente su función fue la de PC de ocio y trabajo, hoy en día, el portátil ha acaparado parte de sus funciones, sobre todo las de trabajo, pero este sigue siendo el centro de ocio por excelencia y además ha encontrado nuevas tareas, como la de servir de cerebro para una modesta sala de cine -anexa a la de este- que, proyector mediante, se convierte en escenario de encarnizadas batallas al Fifa o PES de turno -según convenga-, a Rocket League, o emuladores para los más nostálgicos - que los 16 bits a 100 pulgadas y el sonido Midi a través del 5.1, tienen su encanto-.
+
+<p align="center">
+<img src="/assets/images/PC1.jpg" title="My PC CC IgnacioGRubio" alt="My PC 1" />
+</p>
 
 **LISTADO DE COMPONENTES ORIGINALES:**
 
@@ -33,6 +37,10 @@ En el año 2013, se me ocurrió la feliz idea de entrar en el floreciente mundo 
 
 Con mi flamante gráfica, el resto de componentes empezaba a mostrar sus deficiencias, así en 2015, la configuración inicial de 2 gb de memoria RAM se mostraba a todas luces inviable. Acudieron al rescate un pack de dos módulos Patriot de 2 gb cada uno y PC2-6400 6.0-6-6-18-24 @ 400 MHz, a un precio bastante bajo. Dejando el conjunto en unos aceptables 6 gb.
 
+<p align="center">
+<img src="/assets/images/PC2.jpg" title="My PC CC IgnacioGRubio" alt="My PC 2" />
+</p>
+
 En el mismo apretón decidí darles un descanso a los dos Seagate, y cederles el trabajo duro a los cada vez más asequibles -aunque no tanto como ahora- SSD’s, así que completé la mejora con un Samsung 850 EVO, una auténtica gozada ver el cambio de rendimiento de uno a otro.
 
 Septiembre de 2015, estaba moderadamente contento con mi PC, pero su rendimiento estaba muy lejos de ser el óptimo, el bottleneck -que dicen los angloparlantes- de la CPU, era demasiado molesto, y me impedía poder exprimir mínimamente las virtudes de una gráfica que seguía siendo puntera.
@@ -48,6 +56,10 @@ Con esta revelación cuasi divina, entra en la ecuación el Xeon Quad Core E5450
 En mi caso fue instalar y funcionó aparentemente perfecto, y digo aparentemente porque al poco empezaron a surgir problemas, el Fifa del momento -que no acababa de funcionar con el anterior CPU y reconozcámoslo, fue el verdadero empujón para meterme en este lío-, ahora ni siquiera iniciaba, dando unos errores un tanto extraños. Así que no me costó encontrar el origen del problema y una solución satisfactoria, se trata de realizar una actualización de los microcodes de la placa base, sin los cual el procesador no va del todo fino. Para no extenderme, os dejo un [link](https://foro.noticias3d.com/vbulletin/showthread.php?t=424820) donde se explica perfectamente todo el proceso, y además en español.
 
 Y tras esta pequeña operación, me encuentro con un PC que no solo ha sido capaz de funcionar a la perfección con aquel Fifa 15, que ya nos suena antediluviano, sino que es capaz de lidiar con sus posteriores iteraciones, dejándome sin la excusa perfecta para meterle mano a uno de esos Ryzen que tan buena pinta tienen.
+
+<p align="center">
+<img src="/assets/images/PC3.jpg" title="My PC CC IgnacioGRubio" alt="My PC 3" />
+</p>
 
 Resumiendo y para el que le interese mi Frankenstein:
 
